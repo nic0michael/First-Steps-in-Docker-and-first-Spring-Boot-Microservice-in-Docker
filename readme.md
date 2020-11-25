@@ -6,7 +6,7 @@ This project is to deliver a tutorial to teach the reader how to create Docker c
 Some of the containers deliver simple C++ projects as Docker containers 
 other project deliver Java projects as Docker containers (Including a simple Springboot project)
 
-There is also a chapter on docker commands aven a chapter on Portainer for managing Docker instances and Kubernetes clusters
+There is also a chapter on docker commands even a chapter on Portainer for managing Docker instances and Kubernetes clusters
  
 The reader is provided with a Tutorial as a PDF document and folders of most the projects as examples
 
